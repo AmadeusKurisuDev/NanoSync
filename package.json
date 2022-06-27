@@ -1,0 +1,1 @@
+{"name":"nanosync","version":"1.0.0","description":"a project description","main":"main.js","scripts":{"start":"electron .","watch":"nodemon --exec electron ."},"keywords":[],"author":"MicheleFelici, AmadeusKurisuDev","license":"ISC","devDependencies":{"electron":"^19.0.6","nodemon":"^2.0.0"},"dependencies":{"colors":"^1.4.0"}}
